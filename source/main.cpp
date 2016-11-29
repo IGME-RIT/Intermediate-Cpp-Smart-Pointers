@@ -277,10 +277,10 @@ int main()
     }
     std::cin.get();
 
+    // You may also hear about auto_ptr online. Don't use it. It was the original, and has been replaced with these better more specific smart pointers.
 
     // Hopefully this example has been helpful to you in understanding the basics of smart pointers.
     // There are other kinds of smart pointers, and even these can be used in much more complicated ways, but these are the core three you should know.
-    // You may also hear about auto_ptr online. Don't use it. It was the original, and has been replaced with these better more specific smart pointers.
 
     return 0;   // End Program.
 }
